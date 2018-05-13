@@ -1,0 +1,2 @@
+NEU = "countries/Neumark.txt"
+MML = "countries/Memel.txt"

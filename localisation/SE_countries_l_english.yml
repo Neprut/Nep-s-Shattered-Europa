@@ -77,3 +77,9 @@
  SAI_ADJ: "Sa'idi"
  TEM: "Knights Templar"
  TEM_ADJ: "Templar"
+ #Germany
+ NEU: "Neumark"
+ MML: "Memel"
+ #East Europe
+ WPK: "Wielkopolska"
+ MPK: "Malopolska"
