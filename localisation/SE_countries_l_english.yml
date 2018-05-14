@@ -80,6 +80,15 @@
  #Germany
  NEU: "Neumark"
  MML: "Memel"
+ CTH: "Carinthia"
  #East Europe
  WPK: "Wielkopolska"
  MPK: "Malopolska"
+ #Balkans/Hungary included cuz its just as F'd up\
+ CUM: "Cumania"
+ SKJ: "Skopje"
+ VID: "Vidin"
+ KRV: "Karvuna"
+ MAC: "Macedonia"
+ NEO: "Neopatria"
+ NEG: "Negroponte"

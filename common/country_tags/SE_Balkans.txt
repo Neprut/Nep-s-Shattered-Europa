@@ -1,0 +1,7 @@
+MAC = "countries/Macedonia.txt"
+NEG = "countries/Negroponte.txt"
+NEO = "countries/Neopatria.txt"
+SKJ = "countries/Skjope.txt"
+VID = "countries/Vidin.txt"
+KRV = "countries/Karvuna.txt"
+CUM = "countries/Cuman.txt"
